@@ -7,4 +7,6 @@ public interface ServiceName {
 
     String HEART_BEAT = "heartBeat";
 
+    String ORDER = "order";
+
 }
